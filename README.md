@@ -28,6 +28,6 @@ Check for ice dams. Know where your main water shutoff is. Keep pipes warm in co
 
 ## Want the printable planner?
 
-The **Home Maintenance Checklist and Repair Fund Planner** has the repair fund tracker, monthly and seasonal checklists, repair log and appliance record: https://spectre5.gumroad.com/l/PLACEHOLDER ($6)
+The **Home Maintenance Checklist and Repair Fund Planner** has the repair fund tracker, monthly and seasonal checklists, repair log and appliance record: https://payhip.com/b/0LVFG ($6)
 
 More guides: https://patreon.com/123black
