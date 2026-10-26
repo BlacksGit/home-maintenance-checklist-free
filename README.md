@@ -31,3 +31,7 @@ Check for ice dams. Know where your main water shutoff is. Keep pipes warm in co
 The **Home Maintenance Checklist and Repair Fund Planner** has the repair fund tracker, monthly and seasonal checklists, repair log and appliance record: https://payhip.com/b/0LVFG ($6)
 
 More guides: https://patreon.com/123black
+
+## Free calculator
+
+[Home repair fund calculator](https://blacksgit.github.io/home-repair-fund/): what to save each month for upkeep and big replacements, and what is due in the next five years.
